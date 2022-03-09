@@ -1,0 +1,63 @@
+[
+    {
+        "title":"Who pees on Monica after she is stung by a jellyfish?",
+        "options":["Ross", "Rachel", "Chandler", "Joey"],
+        "correctOptionIndex":4
+    },
+       {
+        "title":"What is the name of Joey's stuffed penguin?",
+        "options":["Cuddles", "Hugsy", "Fuzzy", "Snuggles"],
+        "correctOptionIndex":2
+    },
+       {
+        "title":"How many sisters does Joey have?",
+        "options":["four", "two", "none", "seven"],
+        "correctOptionIndex":4
+    },
+       {
+        "title":"What is Changler Bings middle name?",
+        "options":["Rose", "Michael", "Mary", "Murial"],
+        "correctOptionIndex":4
+    },
+       {
+        "title":"Phoebe attemps to teach Joey what language?",
+        "options":["Spanish", "French", "Arabic", "Russian"],
+        "correctOptionIndex":2
+    },
+       {
+        "title":"Which character famously yells 'PIOVT'?",
+        "options":["Joey", "Chandler", "Ross", "Gunther"],
+        "correctOptionIndex":3
+    },
+       {
+        "title":"What holiday does Chandler hate?",
+        "options":["Halloween", "Christmas", "Thanksgiving", "Easter"],
+        "correctOptionIndex":3
+    },
+       {
+        "title":"Monica could not tell time until what age?",
+        "options":["seven", "ten", "eight", "thirteen"],
+        "correctOptionIndex":4
+    },
+       {
+        "title":"Changler told Janice he ws moving where to avoid seeing her again?",
+        "options":["Yemen", "Ethiopia", "Somalia", "Egypt"],
+        "correctOptionIndex":1
+    },
+       {
+        "title":"Which one of Monicas boyfriends wanted to become The Ultimate Fighting Champion?",
+        "options":["Paul", "Richard", "Pete", "Julio"],
+        "correctOptionIndex":3
+    },
+          {
+        "title":"Monica and Chandler first got together where?",
+        "options":["New York", "London", "Paris", "Las Vegas"],
+        "correctOptionIndex":2
+    },
+          {
+        "title":"What food caused Ross to get sick on Space Mountain?",
+        "options":["Tacos", "Pizza", "Hot Dogs", "Seafood"],
+        "correctOptionIndex":1
+    }
+
+]

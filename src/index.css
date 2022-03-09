@@ -70,7 +70,7 @@ button {
 	color: #111;
 }
 
-.join-screen {
+.join-screen p {
 	max-width: 350px;
 	color: #555;
 }
@@ -104,6 +104,45 @@ button {
 .quiz-screen .question .main .title p {
 	margin-top: 5px;
 	color: #111;
+}
+
+.quiz-screen .question .main .options {
+	margin: 40px 0px 20px;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	gap: 20px;
+}
+
+.quiz-screen .question .main .options .option {
+	width: calc(50% - 20px);
+	border: 1px solid #bbb;
+	padding: 10px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.quiz-screen .question .main .options .option.active {
+	background: #1428cd;
+	color: #fff;
+}
+
+.result-screen {
+	width: 100%;
+	height: 350px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 15px;
+}
+
+.quiz-screen .question .control {
+	padding: 10px 20px;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	border-top: 1px solid #eee;
 }
 
 @keyframes progress {
